@@ -7,10 +7,10 @@
     "start": "node src/app.js"
   },
   "dependencies": {
-    "express": "4.16.0",
-    "lodash": "4.17.15",
-    "jsonwebtoken": "8.5.1",
-    "minimist": "1.2.0",
-    "sqlite3": "5.1.6"
+    "express": "4.17.3",
+    "lodash": "4.17.17",
+    "jsonwebtoken": "9.0.0",
+    "minimist": "1.2.3",
+    "sqlite3": "5.1.7"
   }
 }
