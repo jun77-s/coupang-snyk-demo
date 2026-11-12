@@ -1,0 +1,16 @@
+{
+  "name": "coupang-snyk-demo",
+  "version": "1.0.0",
+  "description": "소프트웨어공학 6팀 - Snyk 시연용 회원가입 예제 (일부러 취약점을 넣은 교육용 코드)",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "4.16.0",
+    "lodash": "4.17.15",
+    "jsonwebtoken": "8.5.1",
+    "minimist": "1.2.0",
+    "sqlite3": "5.1.6"
+  }
+}
